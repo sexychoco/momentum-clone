@@ -1,0 +1,1 @@
+study for javascript basics.

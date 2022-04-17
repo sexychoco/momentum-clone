@@ -1,13 +1,23 @@
 ## VanillaJS - Momentum 프로젝트
 
 ### Description
-VanillaJS로 크롬앱 중 하나인 Momentum 을 구현해보았습니다. 대표적인 기능인 todo-list와 Real-time, weather api 를 통한 현재 위치 지표 알림이 가능합니다.
+VanillaJS로 크롬 웹 서비스 중 하나인 Momentum 을 구현해보았습니다. 대표적인 기능인 todo-list와 Real-time, weather api 를 통한 현재 위치 지표 알림이 가능합니다.
+
+### Study for what
+* Variables
+* Functions
+* Data Types
+* Array,Objects
+* DOM Functions
+* Events
+* if /else /for
 
 ### Features 
 * To-do list
 * Real-time Clock
 * Random background image
-* Geoloaction & weather
+* Geoloaction & weather Information
+* Deploy to Github Pages
 
 ### Result
 https://sexychoco.github.io/momentum-clone/
